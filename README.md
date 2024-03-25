@@ -20,5 +20,8 @@
   </a> 
   <a href="#" target="_blank" rel="noreferrer"> <!-- Link to SQL resources -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> <!-- Wireshark -->
+        <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="40" height="40"/>
+    </a>
 </p>
