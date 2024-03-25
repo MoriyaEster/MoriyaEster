@@ -24,8 +24,8 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
        alt="mongodb" width="40" height="40"/> 
     </a>
-    <a href="#" target="_blank" rel="noreferrer"> <!-- Wireshark -->
-        <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="40" height="40"/>
+    <a href="https://www.wireshark.org/" target="wireshark" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="40" 
+       height="40"/> 
     </a>
 </p>
 
