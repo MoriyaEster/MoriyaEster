@@ -18,7 +18,7 @@
     <a href="#" target="_blank" rel="noreferrer"> <!-- Python -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer"> <!-- SQL -->
+    <a href="#" target="_blank" rel="noreferrer"> <!-- Add your SQL link here -->
         <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer"> <!-- Wireshark -->
