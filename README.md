@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ohad Wolfman</h1>
+<h1 align="center">Hi 👋, I'm Moriya Ester Ohayon</h1>
 <h3 align="center">A second year student in computer science at Ariel University</h3>
 
 <!--
