@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moriya Ester Ohayon</h1>
-<h3 align="center">A second year student in computer science at Ariel University</h3>
+<h3 align="center">A B.Sc. graduate in computer science at Ariel University</h3>
 
-- 🔭 I teach at the Cyber Education Center in the Mamriot program
+- 🔭 I teached at the Cyber Education Center in the Mamriot program
 - 📫 How to reach me **moriyaeo100@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
