@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moriya Ester Ohayon</h1>
-<h3 align="center">🎓 A Passionate Computer Science Graduate from Ariel University 🎓</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
-</p>
+<h3 align="center">🎓 A Computer Science Graduate from Ariel University 🎓</h3>
 
 ---
 
@@ -43,11 +39,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoriyaEster&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MoriyaEster&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150px"/>
+  <table>
+    <tr>
+      <!-- Github status -->
+      <td>
+        <img height="259" src="https://github-readme-stats.vercel.app/api?username=MoriyaEster&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&&theme=buefy" style="width: 100%; height: 100%;" alt="MoriyaEster's Github stats" />
+      </td>
+      <!-- Github use of programming language -->
+      <td>
+          <img height="259" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriyaEster&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=buefy" alt="MoriyaEster's Language stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -63,8 +69,3 @@
     </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF">
-</p>
