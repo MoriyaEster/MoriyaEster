@@ -40,12 +40,6 @@
     </a>
 </p>
 
-<style>
-    img:hover {
-        transform: scale(1.2) rotate(5deg);
-    }
-</style>
-
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
