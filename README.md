@@ -66,3 +66,12 @@
     </a>
 </p>
 
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoriyaEster/MoriyaEster/output/snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
+
